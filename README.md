@@ -38,3 +38,10 @@ Open index.html in your browser.
 
 Enter a city name and click the Search button to get weather info.
 
+🧑‍💻 Developed by
+Md Tanjil Hussain
+Web Development Intern
+Prodigy Infotech
+
+
+
